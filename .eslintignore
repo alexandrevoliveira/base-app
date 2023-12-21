@@ -1,0 +1,13 @@
+.env
+.vscode
+globalConfig.json
+jest.config.*
+jest-*-config.*
+coverage
+data
+dist
+node_modules
+public
+requirements
+!src/data
+!tests/data
